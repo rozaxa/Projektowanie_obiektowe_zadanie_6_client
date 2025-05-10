@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+const foo = 123;
+
 const Payments: React.FC = () => {
   const [amount, setAmount] = useState('');
   const [loading, setLoading] = useState(false);
