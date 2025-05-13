@@ -5,12 +5,7 @@ const Payments: React.FC = () => {
   const [amount, setAmount] = useState('');
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
-  const [amount, setAmount] = useState('');
-  const [loading, setLoading] = useState(false);
-  const [message, setMessage] = useState<string | null>(null);
-  const [amount, setAmount] = useState('');
-  const [loading, setLoading] = useState(false);
-  const [message, setMessage] = useState<string | null>(null);
+
 
   const handlePayment = () => {
     const value = parseFloat(amount);
