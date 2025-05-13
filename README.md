@@ -8,3 +8,6 @@
 ![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=rozaxa_Projektowanie_obiektowe_zadanie_6_client&metric=vulnerabilities)
 ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rozaxa_Projektowanie_obiektowe_zadanie_6_client&metric=code_smells)
 
+
+
+sonar: [link](https://sonarcloud.io/summary/new_code?id=rozaxa_Projektowanie_obiektowe_zadanie_6_client&branch=main)
